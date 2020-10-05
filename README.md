@@ -1,2 +1,1 @@
-# open-ccf
-Repository of the Open Cybersecurity Classification Framework initiative
+# OpenCCF - an open cybersecurity classification framework
