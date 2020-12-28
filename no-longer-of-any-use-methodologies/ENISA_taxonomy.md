@@ -1,15 +1,7 @@
 
 # REFERENCE TAXONOMY INCIDENT  Taxonomy (human readable version)
 
-
-This is the Reference Security Incident Classification Taxonomy.
-
-See the [machine readable version](machinev1) as well. It should have an identical contents to the human readable version.
-Note that the 1st column is mandatory, the 2nd colum is an optional but desired field.
-
-Version: 1002
-
-Generated from [machine readable version](machinev1). Please **DO NOT** edit this file directly in github, rather use the machinev1 file.
+Version: 1002 (28/12/2020, extracted from https://github.com/enisaeu/Reference-Security-Incident-Taxonomy-Task-Force/blob/master/working_copy/humanv1.md)
 
 
 | CLASSIFICATION (1ST COLUMN)                                   | INCIDENT EXAMPLES (2ND COLUMN)        | Description / Examples |
