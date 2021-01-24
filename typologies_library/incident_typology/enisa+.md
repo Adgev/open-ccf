@@ -1,7 +1,7 @@
 # Incident typology "ENISA+"
 
 
-This is the Open CCF ENISA+ incident typology.
+This is the OpenCCF ENISA+ incident typology.
 
 Version: 1.0
 
