@@ -5,7 +5,7 @@ This is the OpenCCF ENISA+ incident typology.
 
 Version: 1.0
 
-| CLASSIFICATION                                   | EXAMPLES        | Comments |
+| CLASSIFICATION                                   | EXAMPLES        | COMMENTS |
 |---------------------------------------------------------      |------------------------------------   |------------------------|
 | Abusive Content or behavior |
 | Malware / Malicious code |
