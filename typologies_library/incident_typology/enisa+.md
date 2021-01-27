@@ -13,7 +13,7 @@ Version: 1.0
 | Passive information gathering |
 | Privileged compromission |
 | Unprivileged compromission |
-| DoS / DDoS |
+| DoS / DDoS or other availability impact |
 | Data divulgation |
 | Communication masquerade |
 | Web masquerade |
